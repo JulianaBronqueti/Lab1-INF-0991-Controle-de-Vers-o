@@ -5,3 +5,7 @@ Console.WriteLine("Hello, World!");
 // Alteração realizada por Juliana Bronqueti
 Console.WriteLine("Hello, World!");
 // Outra alteração realizada por Juliana Bronqueti
+
+
+// Alterações feitas para construção da árvore do Lab 02
+// C1
